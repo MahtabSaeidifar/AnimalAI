@@ -1,5 +1,4 @@
-# app7.py
-# upload videos, set the interval, show the first frame but in reduced dimension, after segmentation, find the corresponding coordinate in original coordinate and do the segmentation. the plot y axis is betweeen 0 and 1, it is a little bit slow
+# app.py
 import streamlit as st
 import torch
 import numpy as np
