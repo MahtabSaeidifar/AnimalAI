@@ -6,4 +6,5 @@ An Open-Source Web Platform for Automated Animal Activity Index Calculation Usin
 The file `checkpoints/sam2_hiera_large.pt` is too large to be hosted in this repository.  
 Please download it from the following link and place it in the `checkpoints/` folder of this project:
 
-[Download sam2_hiera_large.pt](https://example.com/path-to-your-model)  
+https://github.com/facebookresearch/sam2
+
