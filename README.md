@@ -67,7 +67,4 @@ After running `streamlit run app_new.py`, the Streamlit interface will open auto
 2. A plot showing this activity index over time is displayed.
 3. Optionally, **difference images** between consecutive frames can be viewed for deeper analysis.
 
----
 
-**Happy Segmentation and Activity Analysis!**
-```
