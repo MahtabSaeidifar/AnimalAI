@@ -27,7 +27,7 @@ The file **`checkpoints/sam2_hiera_large.pt`** is too large to be hosted in this
 Please download it from the [facebookresearch/sam2](https://github.com/facebookresearch/sam2) repository and place it in the `checkpoints/` folder of this project:
 
 ```
-VideoIntelligence/
+AnimalAI/
 └── checkpoints/
     └── sam2_hiera_large.pt
 ```
