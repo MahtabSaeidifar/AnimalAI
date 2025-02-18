@@ -1,1 +1,1 @@
-
+Please add the 'sam2_hiera_large.pt' in this directory.
