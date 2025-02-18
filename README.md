@@ -9,7 +9,7 @@ An Open-Source Web Platform for Automated Animal Activity Index Calculation Usin
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/MahtabSaeidifar/AnimalAI.git
-cd VideoIntelligence
+cd AnimalAI
 ```
 
 ### 2. Set Up the Environment
