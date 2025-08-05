@@ -1,5 +1,6 @@
 # app_new.py
 # Streamlit version = 1.19.0
+# Python version = 3.10.14
 import streamlit as st
 import torch
 import numpy as np
