@@ -3,6 +3,12 @@
 
 ---
 
+## Citation
+
+If you use this repository, please cite the associated paper.
+
+**Paper link:**  https://doi.org/10.3390/ani15152269 
+
 ## Installation
 
 ### 1. Clone the Repository
